@@ -112,11 +112,10 @@ If you installed git you can clone the code to your machine, or download a ZIP o
 
 Download the ZIP from this location, or run the following git command to clone the files to your machine:
 
-
+git clone:
 ```sh
- Install this project using git clone: https://github.com/lawrahkonwea/math-magician
+  https://github.com/lawrahkonwea/math-magician
 ```
- -->
 
 ### Installation and Setup
 
@@ -125,7 +124,7 @@ install the dependencies with:
   cd math-magician
   npm install
 ```
---->
+
 
 ### Usage
 
@@ -134,7 +133,7 @@ To run the project, execute the following command:
 ```sh
   npm start
 ```
---->
+
 
 ### Run tests
 
@@ -143,7 +142,7 @@ To run tests, run the following command:
 ```sh
   npm run test
 ```
---->
+
 
 ### Deployment
 
@@ -152,7 +151,7 @@ You can deploy this project using:
 ```sh
  npm run build
 ```
- -->
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -162,14 +161,14 @@ You can deploy this project using:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: (https://github.com/lawrahkonwea)
 - Twitter: (https://twitter.com/lawrah_xo)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/amakalaurakonwea)
 
 
-<!-- FUTURE FEATURES -->
+
 
 ## 🔭 Future Features <a name="future-features"></a>
 
@@ -181,7 +180,7 @@ You can deploy this project using:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
+
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -211,23 +210,6 @@ I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
