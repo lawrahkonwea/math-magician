@@ -62,15 +62,12 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Math-app] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
 Mathapp The JavaScript project is a calculator app.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -79,21 +76,6 @@ Mathapp The JavaScript project is a calculator app.
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
-<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
@@ -105,7 +87,6 @@ Mathapp The JavaScript project is a calculator app.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -115,7 +96,6 @@ Mathapp The JavaScript project is a calculator app.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -139,11 +119,6 @@ Download the ZIP from this location, or run the following git command to clone t
  -->
 
 ### Installation and Setup
-1. Install React
-```sh
-  npx create-react-app .
-```
---->
 
 install the dependencies with:
 ```sh
