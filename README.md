@@ -60,11 +60,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Math-app] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+Mathapp The JavaScript project is a calculator app.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -99,9 +99,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Math Calculations]**
+- **[Read Math quote]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,37 +127,28 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
+### Setup
+If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
+
+Download the ZIP from this location, or run the following git command to clone the files to your machine:
+
 
 ```sh
- gem install rails
+ Install this project using git clone: https://github.com/lawrahkonwea/math-magician
 ```
  -->
 
-### Setup
-
-Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
+### Installation and Setup
+1. Install React
 ```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  npx create-react-app .
 ```
 --->
 
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-
+install the dependencies with:
 ```sh
-  cd my-project
-  gem install
+  cd math-magician
+  npm install
 ```
 --->
 
@@ -165,11 +156,8 @@ Example command:
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
 ```sh
-  rails server
+  npm start
 ```
 --->
 
@@ -177,11 +165,8 @@ Example command:
 
 To run tests, run the following command:
 
-<!--
-Example command:
-
 ```sh
-  bin/rails test test/models/article_test.rb
+  npm run test
 ```
 --->
 
@@ -189,11 +174,8 @@ Example command:
 
 You can deploy this project using:
 
-<!--
-Example:
-
 ```sh
-
+ npm run build
 ```
  -->
 
@@ -207,17 +189,10 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: (https://github.com/lawrahkonwea)
+- Twitter: (https://twitter.com/lawrah_xo)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/amakalaurakonwea)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
