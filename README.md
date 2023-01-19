@@ -137,9 +137,9 @@ You can deploy this project using:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Implement the logic]**
+- [ ] **[Refractor codes with functional hooks]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
