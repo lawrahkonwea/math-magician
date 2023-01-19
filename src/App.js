@@ -1,9 +1,11 @@
-import React from 'react';
+import React, { Component } from 'react';
+import CalcUserInterface from './components/calculator';
 
 // eslint-disable-next-line
-class App extends React.Component {
+class App extends Component {
   render() {
-    return (<h1>Hello React</h1>
+    return (
+      <CalcUserInterface />
     );
   }
 }
