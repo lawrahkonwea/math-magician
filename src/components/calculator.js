@@ -1,15 +1,14 @@
 import React, { useState } from 'react';
 import calculate from './logic/calculate';
 
-function handleClick(event, state, setter) {
-  const buttonName = event.target.innerText;
-  const result = calculate(state, buttonName);
-  setter(result);
-}
-
-const CalcUserInterface =() => { // eslint-disable-line
+const CalcUserInterface = () => {
   const [state, setter] = useState({ total: 0, next: null, operation: null });
   const { total, next, operation } = state;
+  const handleClick = (event, state, setter) => {
+    const buttonName = event.target.innerText;
+    const result = calculate(state, buttonName);
+    setter(result);
+  };
   return (
     <section>
       <div className="container">
