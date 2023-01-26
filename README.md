@@ -133,6 +133,10 @@ You can deploy this project using:
 - [Refractor code with hooks]
 
 
+- [ ] **[Implement events]**
+- [ ] **[Refractor code with hooks]**
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
