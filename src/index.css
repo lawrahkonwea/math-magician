@@ -1,5 +1,4 @@
 body {
-  background-color: rgb(4, 119, 119);
   margin: 0;
   font-family:
     -apple-system,
@@ -15,6 +14,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-image: linear-gradient(rgba(238, 241, 25, 0.705), rgba(8, 124, 233, 0.705));
 }
 
 code {
@@ -27,16 +30,66 @@ code {
     monospace;
 }
 
+.home,
+p,
+h3 {
+  padding: 0 20px;
+  font-size: 20px;
+}
+
 section {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
-  padding: 20px 20px;
+  gap: 10px;
+}
+
+.practice {
+  padding: 0 35px;
+}
+
+@media screen and (max-width: 700px) {
+  section {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+.quote p {
+  padding: 0 30px;
+  font-size: 20px;
+}
+
+.navbar,
+h1 {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 0 20px;
+}
+
+ul {
+  display: inline-flex;
+  justify-content: space-between;
+  list-style: none;
+  gap: 10px;
+}
+
+ul a {
+  text-decoration: none;
+  color: inherit;
+}
+
+li {
+  border-right: 2px solid black;
+  padding: 10px;
+  height: 50%;
 }
 
 .container {
   background-color: silver;
+  box-shadow: 5px 10px 8px #888;
 }
 
 .tag {
@@ -67,7 +120,7 @@ section {
 
 button {
   border: none;
-  background-color: white;
+  background-color: rgb(250, 241, 241);
   cursor: pointer;
   font-size: 20px;
   padding: 25px 40px;
