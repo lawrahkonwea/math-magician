@@ -7,3 +7,5 @@ describe('test HomePage component', () => {
     expect (tree).toMatchSnapshot()
   })
 });
+
+
