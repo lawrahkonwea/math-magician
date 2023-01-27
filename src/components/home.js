@@ -7,7 +7,7 @@ const HomePage = () => (
       <p>
         Lorem ipsum dolor sit amet consectetur
         adipisicing elit. Excepturi dicta earum,
-        omnis odio sed pariatur sapiente consequuntur
+        omnis odioseba sed pariatur sapiente consequuntur
         natus consectetur maxime error, aliquam, laborum
         repellat magni reiciendis asperiores officia. Animi,
         impedit?
