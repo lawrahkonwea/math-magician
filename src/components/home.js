@@ -8,7 +8,7 @@ const HomePage = () => (
         Mathematics is the science of structure, order, and relation
         that has evolved from elemental practices of counting, measuring,
         and describing the shapes of objects. It deals with logical reasoning
-        and quantitative calculation, and its development has involved an increasing
+        and quantitative calculation, and its development has really involved an increasing
         degree of idealization and abstraction of its subject matter.
       </p>
       <p>
