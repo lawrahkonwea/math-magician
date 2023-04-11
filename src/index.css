@@ -59,7 +59,6 @@ section {
   .container {
     margin: 50px 30px 0 30px;
   }
-
 }
 
 .quote p {
@@ -84,16 +83,18 @@ h1 {
 @keyframes glow {
   20%,
   24%,
-  55%  {
-    text-shadow: 0 0 10px #fff,
-    0 0 5px #ffa500,
-    0 0 15px #ffa500,
-    0 0 20px #ffa500,
-    0 0 40px #ffa500,
-    0 0 60px #f00,
-    0 0 10px #ff8d00,
-    0 0 98px #f00;
+  55% {
+    text-shadow:
+      0 0 10px #fff,
+      0 0 5px #ffa500,
+      0 0 15px #ffa500,
+      0 0 20px #ffa500,
+      0 0 40px #ffa500,
+      0 0 60px #f00,
+      0 0 10px #ff8d00,
+      0 0 98px #f00;
   }
+
   0%,
   19%,
   21%,
@@ -101,16 +102,16 @@ h1 {
   25%,
   54%,
   56%,
-  100%
-  {
-    text-shadow:0 0 20px #fff,
-   0 0 5px #ffa500,
-    0 0 15px #ffa500,
-    0 0 20px #ffa500,
-    0 0 40px #ffa500,
-    0 0 60px #f00,
-    0 0 10px #ff8d00
-    0 0 98px #f00;
+  100% {
+    text-shadow:
+      0 0 20px #fff,
+      0 0 5px #ffa500,
+      0 0 15px #ffa500,
+      0 0 20px #ffa500,
+      0 0 40px #ffa500,
+      0 0 60px #f00,
+      0 0 10px #ff8d00,
+      0 0 98px #f00;
   }
 }
 
